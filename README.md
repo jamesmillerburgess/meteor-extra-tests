@@ -1,0 +1,1 @@
+`meteor test --once --driver-package meteortesting:mocha`
